@@ -1,0 +1,12 @@
+.navbar {
+    @include header-footer;
+    .navbar-nav {
+        font-weight: light !important;
+        font-size: medium !important;
+        padding-left: 51% !important;
+        justify-content: center !important;
+    }
+    a {
+        padding: 13px !important;
+    }
+}

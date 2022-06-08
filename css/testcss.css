@@ -1,0 +1,53 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important; }
+
+.navbar {
+  background-color: #3882F6 !important; }
+  .navbar .navbar-nav {
+    font-weight: light !important;
+    font-size: medium !important;
+    padding-left: 51% !important; }
+  .navbar a {
+    padding: 13px !important; }
+
+.home-landing-container {
+  padding: 100px !important;
+  background-image: url(../img/istockphoto-1024577404-612x612.webp) !important; }
+  .home-landing-container .app-download-buttons {
+    width: 254px; }
+
+.card {
+  margin: 80px;
+  margin-left: 42% !important; }
+
+.quote-card {
+  margin: 5% !important; }
+
+.table {
+  margin: 3% !important; }
+
+.section-2 {
+  margin: 10%; }
+
+button {
+  background-color: #3882F6 !important;
+  color: black !important; }
+
+.input-group {
+  padding: 5px !important; }
+
+.partner-form {
+  margin: 20px; }
+
+.contact-forms {
+  justify-content: center !important; }
+
+.forms {
+  margin: 10% !important; }
+
+footer {
+  background-color: #3882F6 !important;
+  font-size: small !important;
+  padding: 7% !important; }
+  footer .row {
+    align-items: center !important; }

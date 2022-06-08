@@ -1,0 +1,10 @@
+@import "vars";
+@import "body";
+@import "navbar";
+@import "footer";
+
+@mixin header-footer {
+    background-color: $primary-color !important;
+    font-weight: bold !important;
+    padding: 5% !important;
+}

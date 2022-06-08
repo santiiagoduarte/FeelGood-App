@@ -1,0 +1,6 @@
+footer {
+    @include header-footer;
+    .row {
+        align-items: center !important;
+    }
+}
